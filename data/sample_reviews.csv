@@ -1,0 +1,11 @@
+review_id,product_id,product_title,brand,review_text,rating,timestamp
+r1,p1,"Laptop X","BrandA","This laptop is fast but battery drains quickly.",3,2025-11-16T10:00:00
+r2,p2,"Phone Y","BrandB","Amazing camera and battery life!",5,2025-11-16T10:05:00
+r3,p3,"Headphones Z","BrandC","Sound quality is great but uncomfortable after long use.",4,2025-11-16T10:07:00
+r4,p1,"Laptop X","BrandA","Overheats and poor service support.",1,2025-11-16T10:10:00
+r5,p4,"Smartwatch V","BrandD","Stylish watch, features work well.",4,2025-11-16T10:15:00
+r6,p5,"Camera M","BrandE","Lens came with scratch, disappointed.",2,2025-11-16T10:20:00
+r7,p2,"Phone Y","BrandB","Fantastic performance for the price!",5,2025-11-16T10:25:00
+r8,p6,"Tablet Q","BrandF","Battery backup is average but screen is crisp.",3,2025-11-16T10:30:00
+r9,p7,"Speaker S","BrandG","Terrible connectivity, does not pair with phone.",1,2025-11-16T10:35:00
+r10,p8,"Charger C","BrandH","Works fine and durable cable.",4,2025-11-16T10:40:00

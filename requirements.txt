@@ -1,0 +1,9 @@
+pandas
+confluent-kafka
+textblob
+streamlit
+plotly
+python-dotenv
+tqdm
+fastapi
+uvicorn
