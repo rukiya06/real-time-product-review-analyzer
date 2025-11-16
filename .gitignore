@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+data/processed_reviews.csv
+.vscode/
+.DS_Store
